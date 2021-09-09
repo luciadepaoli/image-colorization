@@ -1,8 +1,5 @@
 # Image Colorization using CNN and Autoencoder
-## Lucia Depaoli
-``lucia.depaoli.1@studenti.unipd.it``
-## Simone Mistrali
-``simone.mistrali@studenti.unipd.it``
+### Authors: Lucia Depaoli ``lucia.depaoli.1@studenti.unipd.it``,  Simone Mistrali ``simone.mistrali@studenti.unipd.it``
 
 
 Project of Image Colorization using a CNN and an Autoencoder architecture. Project developed for the course of Vision and Cognitive Services at UniPD
